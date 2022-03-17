@@ -12,9 +12,9 @@ int main(void)
 	printf("Infinite loop incoming :(\n");
 
 	i = 0;
-/**
+/*
 * while - causes infinite loop while (i < 10)
-* @\n": gives a new line	{
+* \n": gives a new line	{
 *		putchar(i);
 *	}
 */
